@@ -18,8 +18,6 @@ A simple and interactive to-do list app built using **ReactJS**. It allows users
 
 ## 📸 Demo Screenshot
 
-> *(Replace this with an actual screenshot once you have one in your repo)*
-
 ![To-Do List Demo](screenshot.png)
 
 ## 📁 Folder Structure
@@ -33,8 +31,8 @@ src/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/To-Do-List-using-ReactJs.git
-   cd To-Do-List-using-ReactJs
+   git clone https://github.com/inmate22/react-todo-list.git
+   cd react-todo-list
 2. **Install dependencies:**
    ```bash
    npm install
